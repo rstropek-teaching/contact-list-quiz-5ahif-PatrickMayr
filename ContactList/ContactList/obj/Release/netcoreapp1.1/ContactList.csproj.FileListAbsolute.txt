@@ -1,0 +1,11 @@
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Release\netcoreapp1.1\ContactList.deps.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Release\netcoreapp1.1\ContactList.runtimeconfig.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Release\netcoreapp1.1\ContactList.runtimeconfig.dev.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Release\netcoreapp1.1\ContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Release\netcoreapp1.1\ContactList.pdb
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Release\netcoreapp1.1\ContactList.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Release\netcoreapp1.1\ContactList.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Release\netcoreapp1.1\ContactList.AssemblyInfoInputs.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Release\netcoreapp1.1\ContactList.AssemblyInfo.cs
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Release\netcoreapp1.1\ContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Release\netcoreapp1.1\ContactList.pdb

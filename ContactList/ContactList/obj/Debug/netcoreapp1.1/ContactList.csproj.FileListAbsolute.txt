@@ -1,0 +1,22 @@
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.deps.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.runtimeconfig.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.runtimeconfig.dev.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.AssemblyInfoInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.AssemblyInfo.cs
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.deps.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.runtimeconfig.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.runtimeconfig.dev.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\bin\Debug\netcoreapp1.1\ContactList.pdb
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.AssemblyInfoInputs.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.AssemblyInfo.cs
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\ContactList\obj\Debug\netcoreapp1.1\ContactList.pdb

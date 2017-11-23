@@ -1,0 +1,16 @@
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\TestContactList.deps.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\TestContactList.runtimeconfig.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\TestContactList.runtimeconfig.dev.json
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\TestContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\TestContactList.pdb
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\ContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\bin\Debug\netcoreapp2.0\ContactList.pdb
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\obj\Debug\netcoreapp2.0\TestContactList.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\obj\Debug\netcoreapp2.0\TestContactList.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\obj\Debug\netcoreapp2.0\TestContactList.AssemblyInfoInputs.cache
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\obj\Debug\netcoreapp2.0\TestContactList.AssemblyInfo.cs
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\obj\Debug\netcoreapp2.0\TestContactList.dll
+D:\Htl\5AHIF\C#\Git_04_ContactList\ContactList\TestContactList\obj\Debug\netcoreapp2.0\TestContactList.pdb
